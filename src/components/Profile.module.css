@@ -1,0 +1,21 @@
+.id {
+    font-weight: 700;
+    color: red;
+}
+.id span {
+    color: brown;
+}
+.name {
+    font-weight: 900;
+}
+.name span{
+    font-style: italic;
+}
+.email{
+    font-weight: 700;
+    color: cadetblue;
+}
+.email span {
+    font-style: italic;
+    color: rgb(80, 170, 173)
+}
