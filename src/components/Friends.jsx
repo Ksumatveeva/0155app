@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import backgImg from ".././assets/img/101.jpg";
+import backgImg from ".././assets/img/102.jpg";
 
 const TableRow = (props) =>{
 return(
